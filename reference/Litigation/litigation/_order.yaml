@@ -2,3 +2,4 @@
 - createlitigation
 - getlitigationbyid
 - updatelitigation
+- deletelitigationbyid
